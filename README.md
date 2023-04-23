@@ -1,2 +1,2 @@
 # JavaCode
-Exemplos de projetos
+Exemplos de projetos.
